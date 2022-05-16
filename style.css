@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(186, 160, 173);
+}
+
+h1 {
+  font-family: 'Handlee', cursive;
+  text-align: center;
+}
+
+#sobremim {
+  font-size: 20px;
+  font-family: 'Handlee', cursive;
+  position: absolute;
+  left: 150px;
+}
+
+.hab1 { font-size: 16px;}
+.hab2 { font-size: 18px;}
+.hab3 { font-size: 20px;}
+.hab4 { font-size: 22px;}
+.hab5 { font-size: 24px;}
+.hab6 { font-size: 26px;}
+.hab7 { font-size: 28px;}
+
+.img_desc {
+  height: 200px;
+  position: relative;
+}
+
+#foto {
+  float: left;
+  height: 180px;
+  padding: 10px;
+  background-color: rgb(77, 18, 77);
+}
+
+ul li:nth-child(odd) {
+  background-color: rgb(136, 165, 202);
+}
